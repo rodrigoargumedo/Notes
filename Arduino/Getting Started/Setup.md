@@ -1,6 +1,7 @@
 setup()
+======
 
-What it does: The setup function is called when sketch is started. It will run at least once after each *powerup* or *reset* of a Arduino board.
+What it does: The setup function is called when sketch is started. It will run at least once after each _powerup_ or _reset_ of a Arduino board.
 
 ``` arduino
 void setup()
