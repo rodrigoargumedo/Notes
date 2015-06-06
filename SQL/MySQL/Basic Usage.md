@@ -33,7 +33,7 @@ Or sometimes in Read-Only state:
     
     mysql>
     
-To show your current tables from the databases, do:
+To show your current tables from the current database, do:
 
     show tables;
     
