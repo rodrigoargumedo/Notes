@@ -1,3 +1,6 @@
+Basic Usage
+===
+
 To **show databases or schemas**:
 
     show databases;
